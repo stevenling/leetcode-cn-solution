@@ -11,7 +11,7 @@ https://leetcode.cn/
 
 | 题号 | 题解 | 
 | :----: | :----: | 
-| 001 | [两数之和](blob/main/docs/001-两数之和.md) | 
+| 001 | [两数之和](docs/001-两数之和.md) | 
 | 004 | [寻找两个正序数组的中位数](blob/main/docs/004-寻找两个正序数组的中位数.md) | 
 | 009 | [回文数](blob/main/docs/009-回文数.md) | 
 | 028 | [实现strStr()](blob/main/docs/028-实现strStr().md) | 
